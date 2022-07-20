@@ -43,6 +43,11 @@ header {
     padding: 20px 0px 0px 10px;
 }
 
+
+.icons:hover {
+    opacity: 0.5;
+}
+
 /* TEXT OPTIONS */
 
 .newline {
